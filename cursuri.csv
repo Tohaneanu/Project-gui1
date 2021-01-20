@@ -1,0 +1,4 @@
+Id,Nume,Descriere,IdProfesor,Id_uriStudenti,
+1,Curs1,Descriere1,1,1,
+2,Curs2,Descriere2,1,1,2,
+3,Curs3,Descriere3,3,1,2,3,
